@@ -1,6 +1,6 @@
 from art import logo
 from random import randint
-print ("version 1")
+print ("version 2")
 
 
 def hard(the_number):
